@@ -36,5 +36,9 @@ Este projeto foi desenvolvido durante um curso da **Oracle Next Education**, com
 - Validação de campos de formulário
 - Interatividade com o usuário
 
-## 📁 Estrutura do Projeto
+## 📁 Projeto
+https://challenge-amigo-secreto-ashen.vercel.app/
+
+## Autor
+Nicolas Moura
 
