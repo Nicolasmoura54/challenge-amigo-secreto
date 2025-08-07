@@ -40,5 +40,4 @@ Este projeto foi desenvolvido durante um curso da **Oracle Next Education**, com
 https://challenge-amigo-secreto-ashen.vercel.app/
 
 ## Autor
-Nicolas Moura
-
+ [Nicolas Moura](https://www.linkedin.com/in/nicolasmoura54/)
